@@ -1,4 +1,5 @@
 ﻿# Adventure Works 2022 Performance Report 
+![Logo](https://github.com/Aya-Mohamedd/Sales-PerformanceAnalysis-AdventureWorks/blob/main/Images/Logo.png)
 
 ## 📌 Overview
 This document provides a comprehensive analysis of Adventure Works' performance in 2022, focusing on **product performance**, **sales overview**, and **salesperson performance**. The data is derived from three key files:  
